@@ -2,7 +2,7 @@ StockSage - AI Stock Prediction
 
 ## Description
 
-StockSage is a web application built with Flask that predicts future stock prices using a Long Short-Term Memory (LSTM) neural network. It fetches historical stock data from Alpha Vantage, trains an LSTM model on the fly, predicts the next day's mid-price, and displays the prediction alongside a chart comparing predicted vs. actual past prices on a modern, dark-themed interface.
+StockSage is a web application built with Flask that predicts future stock prices using a Long Short-Term Memory (LSTM) neural network. It fetches historical stock data from Alpha Vantage, trains an LSTM model on the fly, predicts the next day's mid-price, and displays the prediction alongside a chart comparing predicted vs. actual past prices on a modern, interface.
 
 ## Features
 
